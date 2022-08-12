@@ -1,12 +1,8 @@
 # Tesla Clone
-## Descrição
-Clone da homepage do site Tesla.
+Clone do site Tesla. O objetivo desse projeto era aprender React e Styled-components.
 
-## Tescologias usadas
-- React JS
+## Tecnologias
+- HTML
+- JavaScript
+- React
 - Styled-components
-
-## Deploy
-```
-https://tesla-clone-project.netlify.app/
-```
